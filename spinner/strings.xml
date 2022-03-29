@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="planets">
+        <item>mercury</item>
+        <item>venus</item>
+        <item>earth</item>
+        <item>mars</item>
+        <item>jupiter</item>
+        <item>saturn</item>
+    </string-array>
+</resources>
