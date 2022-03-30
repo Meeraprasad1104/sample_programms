@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mmenu</string>
+    <string-array name="value">
+
+        <item> add</item>
+        <item>simple interest</item>
+
+    </string-array>
+</resources>
